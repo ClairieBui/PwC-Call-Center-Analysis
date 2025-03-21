@@ -97,7 +97,8 @@ The high number of streaming and technical support issues suggests that these ca
 
 **Trends**
 
-![image](https://github.com/user-attachments/assets/4e6197fc-c1b9-468d-936e-5f388248f474)
+![image](https://github.com/user-attachments/assets/206fc629-cf08-40df-a88f-8dd1427fbd50)
+
 
 1. Monthly Trends Analysis
    
